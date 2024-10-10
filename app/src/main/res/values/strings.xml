@@ -5,6 +5,7 @@
     <string name="this_activity">Ini adalah MainActivity</string>
     <string name="menu_1">Menu 1</string>
     <string name="menu_2">Menu 2</string>
+    <string name="searchbar_hint">Masukkan Kata</string>
     <string name="large_text">
          "Material is the metaphor.\n\n"
         "A material metaphor is the unifying theory of a rationalized space and a system of motion."

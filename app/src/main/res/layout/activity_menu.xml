@@ -30,6 +30,13 @@
         app:layout_constraintTop_toTopOf="parent">
     </com.google.android.material.search.SearchView>
 
+    <Button
+        android:id="@+id/btn_jgn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="jangan di klik"
+        app:layout_constraintBottom_toTopOf="@+id/textView" />
+
 
     <TextView
         android:id="@+id/textView"
